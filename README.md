@@ -1,3 +1,3 @@
 # Store-Backend
 - Crud para tiendas.
-- Hecho con `SpringBoot` y arquitectura `Api Rest`.
+- Hecho con `SpringBoot` y arquitectura `API REST`.
